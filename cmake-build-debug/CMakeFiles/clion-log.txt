@@ -1,0 +1,5 @@
+"E:\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S E:\work\32\car_v2 -B E:\work\32\car_v2\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/work/32/car_v2/cmake-build-debug
